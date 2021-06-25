@@ -1,4 +1,4 @@
-# matplotlib-challenge
+# Mice Tumor Pharmaceutical Study
 
 For this analysis we looked at the results from a study on the effects of different drug regimens and their effects on tumorvolume.
 
