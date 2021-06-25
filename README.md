@@ -1,8 +1,14 @@
 # Mice Tumor Pharmaceutical Study
 
-For this analysis we looked at the results from a study on the effects of different drug regimens and their effects on tumorvolume.
+<h2>Intro</h2>
+For this analysis I looked at the results from a study on the effects of different drug regimens and their effects on tumor volume.</p>
 
-We were given two data sets, one of the mouse metadata and the other of the test results. These two were combined to give us our base dataframe. From which, we analyzed the effects on 248 different mice.
+<h3 align="center">Data</h3>
+<p>I had two data sets, one of the mouse metadata and the other of the test results. These two were combined and cleaned to give us the base dataframe. From which, I analyzed the effects on 248 different mice.</p>
+<p align="center">
+  <img width="628" alt="Combined Dataframe" src="https://user-images.githubusercontent.com/64094170/123457048-86a7be80-d5b1-11eb-9cf9-a34b0e6b2076.PNG">
+</p>
+
 
 From our initial summary statistics on the mean and median tumor volume, the two with the smallest mean volume were Capomulin (40.68) and Ramicane (40.22). Indicating they may be the most effective at reducitng the size of the tumor. It is to be noted that these two drug regimens also had the largest number of mice tested.
 There were slighlty more males (51%) to female (49%) mice in the study.
