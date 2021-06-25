@@ -43,12 +43,13 @@
 </p>
 <hr>
 <h3 align="center">Mouse s185</h3>
-<img align="right" width="441" alt="line and scatter"
-    src="https://user-images.githubusercontent.com/64094170/123467588-a98c9f80-d5be-11eb-9c88-0f71e963b77d.PNG">
+
 
 <p>We then looked at the Capomulin treatment of mouse s185. We see over the time of the treatment the tumor reduced in
     volume by almost half. The evidence keeps pointing to Capomulin as an effective drug in reducing tumor volume.
 </p>
+<img align="right" width="441" alt="line and scatter"
+    src="https://user-images.githubusercontent.com/64094170/123467588-a98c9f80-d5be-11eb-9c88-0f71e963b77d.PNG">
 <hr>
 
 <h3 align="center">Correlation and Further Testing</h3>
