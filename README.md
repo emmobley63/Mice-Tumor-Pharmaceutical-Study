@@ -48,7 +48,7 @@
 <p>We then looked at the Capomulin treatment of mouse s185. We see over the time of the treatment the tumor reduced in
     volume by almost half. The evidence keeps pointing to Capomulin as an effective drug in reducing tumor volume.
 </p>
-<img align="left" width="441" alt="line and scatter"
+<img align="left" width="550" alt="line and scatter"
     src="https://user-images.githubusercontent.com/64094170/123467588-a98c9f80-d5be-11eb-9c88-0f71e963b77d.PNG">
 <hr>
 
@@ -59,8 +59,6 @@
     capomulin and found it to be 0.84. This is a pretty strong positive correlation and could mean that what we thought
     was effectiveness in reducing tumor volume was actually a lower average weight of the mice for each drug
     regimen
-    .<img align="right" width="500" alt="correlation and regression"
-        src="https://user-images.githubusercontent.com/64094170/123469666-56681c00-d5c1-11eb-93e7-5b23262965f0.PNG">
 </p>
 
 <p>
@@ -71,3 +69,5 @@
     the change in the tumor size from beginning to end. However the dataset is limited to less than 250 mice per drug,
     so some of these demographics may not have enough data to test.
 </p>
+<img align="left" width="550" alt="correlation and regression"
+        src="https://user-images.githubusercontent.com/64094170/123469666-56681c00-d5c1-11eb-93e7-5b23262965f0.PNG">
