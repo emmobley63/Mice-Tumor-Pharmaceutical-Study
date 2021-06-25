@@ -1,10 +1,3 @@
-<head>
-  <style type="text/css">
-    .img-mar {
-      padding-bottom:50px;
-    }
-  </style>
-</head>
 # Mice Tumor Pharmaceutical Study
 
 <h2>Intro</h2>
@@ -28,6 +21,7 @@ There were slighlty more males (51%) to female (49%) mice in the study.
 <h3 align="center">Summary Statistics</h3>
 <p>
 From my initial summary statistics on the mean and median tumor volume, the two with the smallest mean volume were Capomulin (40.68) and Ramicane (40.22). Indicating they may be the most effective at reducitng the size of the tumor. It is to be noted that these two drug regimens also had the largest number of mice tested.
+</p>
 <hr>
 
 <h3 align="center">Outliers</h3>
