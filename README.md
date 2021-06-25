@@ -16,6 +16,3 @@ From a scatter plot of the average weight and average tumor volume of mice treat
 To more effectively assess this data I would suggest checking the average weight of mice in each drug regimen. I would also suggest to assess the change in tumor size from the beginning of treatment to the end as a percentage of the starting volume. I would test the average age against the tumor volume to see if it is more effective in younger or older mice. Assessing the different demographics of the mice tested and each demographic trait's correlation to the change in the tumor size from beginning to end. 
 
 However the dataset is limited to less than 250 mice per drug, so some of these demographics may not have enough data to test.
-
-
-
